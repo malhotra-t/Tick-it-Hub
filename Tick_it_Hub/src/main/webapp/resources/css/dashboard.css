@@ -1,0 +1,14 @@
+#tickitdashboard { 
+font-family: "Roboto";
+background: #00897B;
+}
+#tickitdashboard .whitefont{ 
+font-family: "Roboto";
+color: white;
+}
+p#irErr {
+	color: red;
+}
+p#prErr {
+	color: red;
+}
